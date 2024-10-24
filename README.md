@@ -14,3 +14,14 @@ The workflow was as follows:
 - Image transformed
 - Frequency components of transform are iterated through, producing .gif frames of sine waves and cumulative sum
 - Animation and final image saved to S3 out bucket
+
+## Example
+
+Input (c. Jayanth Sharma):
+
+![Kamchatka Peninsula](fft2d_example/1239u9ixo5c_rusia-expedicion-a-kamchatka-3-3.jpg "Kamchatka Peninsula")
+
+
+Animation:
+
+![Animation of reconstruction](fft2d_example/animation.gif "Animation of reconstruction")
