@@ -1,2 +1,3 @@
 config_template/
 build.sh
+.DS_Store
