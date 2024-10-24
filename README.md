@@ -13,7 +13,7 @@ The workflow was as follows:
 - Unit tests run
 - Image transformed
 - Frequency components of transform are iterated through, producing .gif frames of sine waves and cumulative sum
-- Animation and final image saved to S3 out bucket
+- Animation and final image saved to S3 output bucket
 
 ## Example
 
